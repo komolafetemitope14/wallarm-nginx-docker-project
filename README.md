@@ -1,6 +1,6 @@
 # wallarm-nginx-docker-project
 
-# 🚀 Deploying a Standalone NGINX Server with Docker and Wallarm Node
+# Deploying a Standalone NGINX Server with Docker and Wallarm Node
 
 ## Project Overview
 This project demonstrates deploying a containerized NGINX server with Wallarm Node to secure web applications from real-time attacks.
